@@ -1,0 +1,8 @@
+{
+  "version_code": 80,
+  "version_name": "5.38",
+  "sha256": "0a86a98109e2d2e97dfde66414e52956bb6bb5d12cd88f33074ce87ae4db3d12",
+  "parts": [
+    "https://github.com/rsstudio732-art/RS_Voice/releases/download/v5.38/RS_Voice_5.38_lixiang.apk"
+  ]
+}
