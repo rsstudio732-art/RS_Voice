@@ -1,0 +1,8 @@
+{
+  "version_code": 80,
+  "version_name": "5.38",
+  "sha256": "38fedda27452befa4142220262e23ead51a7608729b48626cbdc688e47e87ecc",
+  "parts": [
+    "https://github.com/rsstudio732-art/RS_Voice/releases/download/v5.38/RS_Voice_5.38_dorest.apk"
+  ]
+}
