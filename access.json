@@ -1,0 +1,55 @@
+{
+  "updated": 1793124031,
+  "cars": {
+    "07c510f63b709838": {
+      "state": "revoked",
+      "expires": 1795716000,
+      "tier": "manual"
+    },
+    "855a6b85ef045ff6": {
+      "state": "revoked",
+      "expires": 1823755043,
+      "tier": "manual"
+    },
+    "2e458d7b913b273a": {
+      "state": "active",
+      "expires": 1823596300,
+      "tier": "manual"
+    },
+    "a128116db5c672ec": {
+      "state": "active",
+      "expires": 1823164068,
+      "tier": "manual"
+    },
+    "1a1c676a46c4c01c": {
+      "state": "active",
+      "expires": 1852216491,
+      "tier": "max"
+    },
+    "4ffe4d527484899d": {
+      "state": "active",
+      "expires": 1821112491,
+      "tier": "max"
+    },
+    "daa944798fa61e91": {
+      "state": "active",
+      "expires": 1821105549,
+      "tier": "manual"
+    },
+    "8221122aeea5c574": {
+      "state": "revoked",
+      "expires": 1821097427,
+      "tier": "manual"
+    },
+    "a1baa42e3f9e9b0c": {
+      "state": "revoked",
+      "expires": 1821447850,
+      "tier": "manual"
+    },
+    "7f964ca14c58ea73": {
+      "state": "active",
+      "expires": 1821445798,
+      "tier": "manual"
+    }
+  }
+}
